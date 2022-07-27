@@ -1,0 +1,46 @@
+/* body {
+    background-color: antiquewhite;
+}
+*/
+/* .row {
+    display: flex;
+    width: 100%;
+} */
+
+.wrap {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.col-md-3 {
+    width: 25%;
+    margin: 10px 0px;
+}
+
+.card {
+    padding: 5px;
+    margin: 10px;
+}
+
+.cardImg {
+    width: 70%;
+    height: 220px;
+}
+
+.cardName {
+    font-size: 15px;
+    font-weight: 500;
+    padding: 5px;
+    color: black;
+    line-height: 25px;
+}
+
+.offer {
+    color: rgb(3, 141, 99);
+}
+
+a {
+    text-decoration: none;
+
+}
